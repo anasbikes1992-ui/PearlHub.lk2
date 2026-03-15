@@ -1,0 +1,7 @@
+{
+  "name": "PearlHub Platform",
+  "description": "Premium vehicle rental and social platform with real-time telemetry, compliance management, and super-admin controls.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
